@@ -36,6 +36,7 @@ loader.exe <encoded_image.png>
 **Example:**
 loader.exe encoded.png
 
+
 ## How It Works
 
 ### LSB Embedding
