@@ -1,5 +1,9 @@
 # Steg-PE-Loader
 
+## ⚠️ IMPORTANT: EDUCATIONAL PURPOSE ONLY ⚠️
+
+**This project is a Proof-of-Concept (PoC) developed strictly for academic and research purposes. It is intended for use in controlled, ethical security research environments to study malware behavior and improve defensive solutions**
+
 This project is a toolkit for hiding and executing 32-bit Windows executables inside PNG images using Least Significant Bit (LSB) steganography and in-memory execution.
 
 It consists of two tools:
